@@ -1,0 +1,11 @@
+---
+title: "Capstone Project Proposal"
+author: "Nayyar"
+date: "April 12, 2019"
+output: html_document
+---
+
+The objective of this Capstone project is to study the patterns of Loan Status in Prosper Loan Data.Prosper Loans is a marketplace lending company  that provides unsecured personal loans for any purpose.Prosper Loan specializes in low cost loans.The hypothetical prospective client would be any loan lending company similar to Prosperous Loans, which can benefit from data analysis.They can make better decisions while offering loans to their clients which could help in maximizing profits and at the same time minimizing their losses. The Loan Status is divided into two categories;completed and defaulted loans.We will study both of these categories in detail to determine  the factors which could affect the status of loans.We will use R language to carry out our analysis.Since this is a financial Dataset, it is related to loans, borrowers, lenders,interest rates etc.We will use histograms,bar plots and bar charts and perform train and test functions in our data analysis.The data is available through github.We will also do t-test to check if there is any significant difference between the means of two groups.
+
+The final portion of this project will address predictive modelling.Depending on the nature of variables we will decide whether to conduct linear or logistic regression.
+The deliverables would include code used for visual and statistical analysis as well as predictive modelling.Also, a report that demonstrates the thought process behind the methodology and reports relevent results.
